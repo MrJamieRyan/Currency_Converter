@@ -1,7 +1,6 @@
 {
-  "name": "vue_start_point",
+  "name": "wk7_d2_hw_currency_converter",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -9,11 +8,20 @@
   },
   "author": "",
   "license": "ISC",
-  "dependencies": {
-    "vue": "^2.5.21"
-  },
+  "dependencies": {},
   "devDependencies": {
-    "webpack": "^4.30.0",
-    "webpack-cli": "^3.3.1"
-  }
+    "vue": "^2.6.11",
+    "webpack": "^4.41.5",
+    "webpack-cli": "^3.3.10"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MrJamieRyan/wk7_d2_hw_currency_converter.git"
+  },
+  "bugs": {
+    "url": "https://github.com/MrJamieRyan/wk7_d2_hw_currency_converter/issues"
+  },
+  "homepage": "https://github.com/MrJamieRyan/wk7_d2_hw_currency_converter#readme",
+  "keywords": [],
+  "description": ""
 }
